@@ -1,0 +1,22 @@
+npm install axios
+donload node js from https://nodejs.org/en
+npm install axios
+
+Response: {
+  companyName: 'goMart',
+  clientID: '9ca97284-0b06-42c3-b95b-ca28b727e4b4',
+  clientSecret: 'riVeJtBuOyGwTnuS',
+  ownerName: 'Jadhav Avinash',
+  ownerEmail: '245121733015@mvsrec.edu.in',
+  rollNo: '2451-21-733-015'
+}
+Authorization Token Response: {
+  token_type: 'Bearer',
+  access_token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzE5MDM4MzkyLCJpYXQiOjE3MTkwMzgwOTIsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6IjljYTk3Mjg0LTBiMDYtNDJjMy1iOTViLWNhMjhiNzI3ZTRiNCIsInN1YiI6IjI0NTEyMTczMzAxNUBtdnNyZWMuZWR1LmluIn0sImNvbXBhbnlOYW1lIjoiZ29NYXJ0IiwiY2xpZW50SUQiOiI5Y2E5NzI4NC0wYjA2LTQyYzMtYjk1Yi1jYTI4YjcyN2U0YjQiLCJjbGllbnRTZWNyZXQiOiJyaVZlSnRCdU95R3dUbnVTIiwib3duZXJOYW1lIjoiSmFkaGF2IEF2aW5hc2giLCJvd25lckVtYWlsIjoiMjQ1MTIxNzMzMDE1QG12c3JlYy5lZHUuaW4iLCJyb2xsTm8iOiIyNDUxLTIxLTczMy0wMTUifQ.O6I58z-Y-sHoQqBJrfxa2TjuTc6LcYh95JN7n_DPqxc',
+  expires_in: 1719038392
+}
+node auth.js
+npm init -y
+npm install express axios uuid
+node server.js
+pip install flask
